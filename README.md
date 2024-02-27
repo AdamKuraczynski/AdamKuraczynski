@@ -13,7 +13,7 @@
                                                                                            
 </p>
 
-<h3 align="left"> :gear: Languages and Tools:</h3>
+<h3 align="left"> :gear: Languages and Tools I have experience in:</h3>
 
 <p align="left">
     <a href="https://obsidian.md/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=obsidian" width="44" height="44" alt="Obsidian" /></a>
