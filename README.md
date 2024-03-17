@@ -28,11 +28,11 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" width="44" height="44" alt="MySQL" /></a>
     <a href="https://www.php.net" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=php" width="44" height="44" alt="PHP" /></a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=azure" width="44" height="44" alt="Azure" /></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Bash" /></a>
+<!--<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Bash" /></a>  -->
     <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=powershell" width="44" height="44" alt="PowerShell" /></a>
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=java" width="44" height="44" alt="Java" /></a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" width="44" height="44" alt="Kotlin" /></a>
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=swift" width="44" height="44" alt="Swift" /></a>                                                                                            
+<!--<a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" width="44" height="44" alt="Kotlin" /></a>  -->
+<!--<a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=swift" width="44" height="44" alt="Swift" /></a>  -->                                                                                            
 </p>
 
 <h3 align="left"> :chart_with_upwards_trend: GitHub Stats:</h3>
