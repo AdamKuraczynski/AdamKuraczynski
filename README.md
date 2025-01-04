@@ -1,9 +1,9 @@
 <h1 align="center">Hello and Welcome 👋, I'm Adam Kuraczyński </h1>
-<h3 align="center">Computer science student currently working as Junior Support Specialist at Aludyne</h3>
+<h3 align="center">Computer science student currently working as Junior Automation Engineer at Aludyne</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adamkuraczynski&label=Profile%20views&color=0e75b6&style=flat" alt="adamkuraczynski" /> </p>
 
-<h3 align="left"> :seedling: I’m currently learning PowerShell and studying for CCNA</h3> 
+<!-- <h3 align="left"> :seedling: I’m currently learning PowerShell and studying for CCNA</h3>  -->
 
 <h3 align="left"> :mailbox: Connect with me:</h3>
 <p align="left">
@@ -31,7 +31,7 @@
 <!--<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Bash" /></a>  -->
     <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=powershell" width="44" height="44" alt="PowerShell" /></a>
     <a href="https://www.java.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=java" width="44" height="44" alt="Java" /></a>
-<!--<a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" width="44" height="44" alt="Kotlin" /></a>  -->
+    <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" width="44" height="44" alt="Kotlin" /></a>
 <!--<a href="https://developer.apple.com/swift/" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=swift" width="44" height="44" alt="Swift" /></a>  -->                                                                                            
 </p>
 
